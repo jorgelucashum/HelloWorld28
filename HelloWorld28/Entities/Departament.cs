@@ -12,5 +12,11 @@ namespace HelloWorld28.Entities
         {
             Name = name;
         }
+
+       /* public override string ToString()
+        {
+            return $"\nNome do departamento: {Name}";
+        }
+       */
     }
 }

@@ -51,7 +51,7 @@ namespace HelloWorld28.Entities
 
         public override string ToString()
         {
-            return $"Nome: {Name}, Nível: {Level}, Departamento: {Departament}";
+            return $"Nome: {Name}\nNível: {Level}. ";
         }
     }
 }
